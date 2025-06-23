@@ -85,12 +85,8 @@ This will:
 
 ## 🧪 Example Query Output
 
-```text
-=== Querying LightRAG ===
+![image](https://github.com/user-attachments/assets/6ab590b4-58f3-4aea-9ed7-ac4259e7200c)
 
-Results using hybrid mode:
-Gemma says: Faslu Rahman is mentioned in the document...
-```
 
 ---
 
