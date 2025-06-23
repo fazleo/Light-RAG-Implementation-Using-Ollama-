@@ -1,0 +1,8 @@
+lightrag-hku
+neo4j
+python-dotenv
+pytest
+ollama
+faiss-cpu
+streamlit
+pymupdf

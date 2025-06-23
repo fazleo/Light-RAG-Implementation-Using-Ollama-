@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+
+
+# devoloping code
+my_rag_project/retreival.py
+my_rag_project/main_with_streamlit.py
+
+
+#folder
+my_rag_project
+.idea/
